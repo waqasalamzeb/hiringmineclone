@@ -1,0 +1,344 @@
+ <div class="container apply-sec">
+        <div class="row apply">
+            <div class="col-lg-12">
+                <div class="titile">
+                    <h1>Dig. Apply <br> Prepare Your Future</h1>
+                    <p>Hiring Mine connects employer and job seekers, where employers are <br> the source of the resources and the job seeker can find and apply for <br> their targeted job.</p>
+                    <input type="text" class="search" placeholder="Search by Role or Keyword">
+                        
+                    <button class="butn b1">Find Jobs</button>
+                    <div class="popular">
+                        <h4>Popular Searches</h4>
+
+                        <div class="btns">
+                            <button >Software</button>
+                            <button>Developer</button>
+                            <button>Backend</button>
+                            <button>React</button>
+                            <button>Node</button>
+                            <button>React Native</button>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <button>Flutter</button>
+                                    <button>Ui/Ux</button>
+                                    <button>Designer</button>
+                                    <button>Web</button>
+                                    <button>SEO</button>
+                                    <button>Marketing</button>
+                      <button>Writer</button>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+
+            
+
+                            
+<!-- job-search-section ends Here -->
+
+
+    <!-- --banner-Section--- -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 banner">
+                <img src="./banner.png" alt="" class="img-fluid">
+            </div>
+        </div>
+   
+         <!-- --banner-Section--- -->
+
+    
+    
+     
+           
+      <!-- ---card1-Section---     -->
+      <div class="container card1-sec">
+        <div class="row">
+            <h1 class="text-center" style="font-weight: bolder;">Get Hired In 4 <span style="color: #6851ff; ">Quick Easy Steps (Coming Soon)</span></h1>
+            <p class="text-center">The quickest and the most effective way to get hired by the top firm.</p>
+            <div class="col-lg-3 card">
+                <i class="fa-solid fa-user user"></i>
+                    <h5>Create an Account</h5>
+                    <p>Join our vibrant community. <br> Create your account and <br> unlock boundless <br> opportunities.</p>
+            </div>
+            <div class="col-lg-3 card">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <h5>Search a Job</h5>
+                    <p>Join our vibrant community. <br> Create your account and <br> unlock boundless <br> opportunities.</p>
+            </div>
+            <div class="col-lg-3 card">
+                <i class="fa-solid fa-upload"></i>
+                    <h5>Upload CV/Resume</h5>
+                    <p>Join our vibrant community. <br> Create your account and <br> unlock boundless <br> opportunities.</p>
+            </div>
+            <div class="col-lg-3 card">
+                  <i class="fa-solid fa-bag-shopping"></i>
+                    <h5>Get A Job</h5>
+                    <p>Join our vibrant community. <br> Create your account and <br> unlock boundless <br> opportunities.</p>
+            </div>
+            
+        </div>
+      </div>
+      <div class="container dreamjob">
+        <div class="row">
+            <h1 class="text-center" style="font-weight: bolder;">Find Your Dream Job <span style="color: #6851ff;">Super Fast Ever.</span></h1>
+            <p class="text-center">We are here to help jobseekers connect with organizer and companies. We are provides <br> the best opportunities to professional people.
+                <div class="col-lg-12 d-flex justify-content-center">
+                    <img src="./dreamjobimg.png" alt="">
+                </div>
+
+            </p>
+        </div>
+      </div>
+
+      <div class="container card1-sec  ">
+        <div class="row ">
+            <h1 class="text-center" style="font-weight: bolder; font-size: 50px;" > <span style="color: #6851ff;">Countless Career Options Are </span>Waiting For You To<span class="text-center">Explore</span></h1>
+            <div class="col-lg-3 card card2">
+                <i class="fa-solid fa-user user"></i>
+                              
+                <h5>Development</h5>
+                <span>168 jobs</span>
+            </div>
+            <div class="col-lg- card card2">
+                <i class="fa-solid fa-user user"></i>
+                <h5 class="text-center">Marketing & Sales</h5>
+                <span>147 jobs</span>
+            </div>
+            <div class="col-lg-3 card card2">
+                <i class="fa-solid fa-user user"></i>
+                <h5>Art & Illustration</h5>
+                <span>66 jobs</span>
+            </div>
+            <div class="col-lg-3 card card2">
+                <i class="fa-solid fa-user user"></i>
+                <h5>Animation</h5>
+                <span>49 jobs</span>
+            </div>
+            </div>
+            <div class="row ">
+              
+                <div class="col-lg-3 card card2">
+                    <i class="fa-solid fa-user user"></i>
+                                  
+                    <h5>SEO</h5>
+                    <span>168 jobs</span>
+                </div>
+                <div class="col-lg- card card2">
+                    <i class="fa-solid fa-user user"></i>
+                    <h5 class="text-center">Call Center</h5>
+                    <span>147 jobs</span>
+                </div>
+                <div class="col-lg-3 card card2">
+                    <i class="fa-solid fa-user user"></i>
+                    <h5>Content Writer</h5>
+                    <span>66 jobs</span>
+                </div>
+                <div class="col-lg-3 card card2">
+                    <i class="fa-solid fa-user user"></i>
+                    <h5>UX/UI Design</h5>
+                    <span>49 jobs</span>
+                </div>
+                <div class="container card1-sec">
+                <div class="row">
+                    <h1 class="text-center">Latest And Top Job Openings</h1>
+                    <div class="col-lg-4 col-md-6 card card3">
+                        <div class="headline">
+                            <h6>Weblinx Solutions</h6>
+                            <h6>Call center Agents</h6>
+                            <h5>No Salary Mentioned</h5>
+                            <span>Join Our Team</span>
+                             </div>
+                          
+                            <p class="cardp">
+                                We are currently seeking Call Center Agents to join our dynamic team at Weblinx Solution...</p>
+                                <button class="butn">Onsite</button>
+                                <span class="hrs">16 hours ago</span>
+                                <span class="desh">Karachi,Pakistan</span>
+                            
+                                <div class="card-logo">
+                                    <img src="./cardlogo.png" alt="" class="img-fluid" width="50px">
+                                </div>
+                                
+
+                       
+                        
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 card card3">
+                        <div class="headline">
+                            <h6>Weblinx Solutions</h6>
+                            <h6>Call center Agents</h6>
+                            <h5>No Salary Mentioned</h5>
+                            <span>Join Our Team</span>
+                          
+                            <p class="cardp">
+                                We are currently seeking Call Center Agents to join our dynamic team at Weblinx Solution...</p>
+                                <button class="butn">Onsite</button>
+                                <span class="hrs">16 hours ago</span>
+                                <span class="desh">Karachi,Pakistan</span>
+                            
+                                <div class="card-logo">
+                                    <img src="./cardlogo.png" alt="" class="img-fluid" width="50px">
+                                </div>
+                                
+
+                        </div>
+                        
+                    </div>
+                       
+                    <div class="col-lg-4 col-md-6 col-sm-12 card card3">
+                        <div class="headline">
+                            <h6>Weblinx Solutions</h6>
+                            <h6>Call center Agents</h6>
+                            <h5>No Salary Mentioned</h5>
+                            <span>Join Our Team</span>
+                          
+                            <p class="cardp">
+                                We are currently seeking Call Center Agents to join our dynamic team at Weblinx Solution...</p>
+                                <button class="butn">Onsite</button>
+                                <span class="hrs">16 hours ago</span>
+                                <span class="desh">Karachi,Pakistan</span>
+                            
+                                <div class="card-logo">
+                                    <img src="./cardlogo.png" alt="" class="img-fluid" width="50px">
+                                </div>
+                                
+
+                        </div>
+                        
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 card card3">
+                        <div class="headline">
+                            <h6>Weblinx Solutions</h6>
+                            <h6>Call center Agents</h6>
+                            <h5>No Salary Mentioned</h5>
+                            <span>Join Our Team</span>
+                          
+                            <p class="cardp">
+                                We are currently seeking Call Center Agents to join our dynamic team at Weblinx Solution...</p>
+                                <button class="butn">Onsite</button>
+                                <span class="hrs">16 hours ago</span>
+                                <span class="desh">Karachi,Pakistan</span>
+                            
+                                <div class="card-logo">
+                                    <img src="./cardlogo.png" alt="" class="img-fluid" width="50px">
+                                </div>
+                                
+
+                        </div>
+                        
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 card card3">
+                        <div class="headline">
+                            <h6>Weblinx Solutions</h6>
+                            <h6>Call center Agents</h6>
+                            <h5>No Salary Mentioned</h5>
+                            <span>Join Our Team</span>
+                          
+                            <p class="cardp">
+                                We are currently seeking Call Center Agents to join our dynamic team at Weblinx Solution...</p>
+                                <button class="butn">Onsite</button>
+                                <span class="hrs">16 hours ago</span>
+                                <span class="desh">Karachi,Pakistan</span>
+                            
+                                <div class="card-logo">
+                                    <img src="./cardlogo.png" alt="" class="img-fluid" width="50px">
+                                </div>
+                                
+
+                        </div>
+                        
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 card card3">
+                        <div class="headline">
+                            <h6>Weblinx Solutions</h6>
+                            <h6>Call center Agents</h6>
+                            <h5>No Salary Mentioned</h5>
+                            <span>Join Our Team</span>
+                          
+                            <p class="cardp">
+                                We are currently seeking Call Center Agents to join our dynamic team at Weblinx Solution...</p>
+                                <button class="butn">Onsite</button>
+                                <span class="hrs">16 hours ago</span>
+                                <span class="desh">Karachi,Pakistan</span>
+                            
+                                <div class="card-logo">
+                                    <img src="./cardlogo.png" alt="" class="img-fluid" width="50px">
+                                </div>
+                        </div>
+ 
+                    </div>
+                </div>
+                </div>
+                    
+                                
+                                   <!-- -----sec-last-section----- -->
+                                   <div class="container seclast">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 seclastleft">
+                                            <img src="./cnctppl.png" alt="" class="img-fluid">
+                                            <h1 style="font-weight: bold;">Connect With People <br><span style="color: #6851ff;"> Who Can Help</span></h1>
+                                            
+                                           
+                                            
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 seclastright " >
+                                            <img src="./pstjob.png" alt="" class="img-fluid">
+                                            <h1 class="text-center" style="font-weight: bold;"><span style="color: #6851ff;">Post Your Job</span> For <br> People To See</h1>
+                                           
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                   </div>
+                                </div>
+                            </div>
+                            </div>
+                        
+
+
+                       
+
+          <!-- ---footer-section----->
+   <div class="container-fluid footer">
+    <div class="row ftrow">
+     <div class="col-lg-10 col-md-12 col-sm-12">
+        <img src="./footlogo.png" alt="">
+        <p class="fp">HiringMine connects employer and job seekers,<br>
+            where employers are the source of the resources <br>
+            and the job seeker can find and apply for their <br>
+            targeted job.</p>
+            <div class="icons">
+                <img src="./fb.svg" alt="">
+                <img src="./whatsapp.svg" alt="">
+                <img src="./instagram.svg" alt="">
+                <img src="./linkdin.svg" alt="">
+            </div>
+     </div>
+     <div class="col-lg-2 col-md-12 col-sm-12">
+        <h5 class="cntc">Contact Us</h5>
+        <div class="row">
+            <div class="col-lg-12 portal">
+                <span class="text-white">portal.hiringmine@gmail.com</span>
+                <i class="fa-regular fa-envelope"></i>
+            </div>
+        </div>
+   </div>
+   </div>
+   </div>
+   
+           
+   
+         
+            
+           
+          
+          <!-- ---footer-section----->
+                                
+                  
+
+        

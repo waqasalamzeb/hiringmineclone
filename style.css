@@ -1,0 +1,374 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dreamjob{
+    margin-bottom: 50px;
+}
+
+
+.navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, .9);
+    margin-right: 145px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0, 0, 0, .9);
+    margin-right: 13px;
+}
+
+ .seclastleft{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: auto;
+}
+
+.seclastright{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin: auto;
+
+}
+
+
+.apply-sec{
+    padding-left: 0;
+    padding-right: 0;
+}
+.apply h1{
+    font-size: 60px;
+    color: #8544F6;
+    font-weight: bolder;
+    margin-top: 56px;
+}
+.apply p{
+    font-size: 20px
+}
+.apply h4{
+    color: #8544F6;
+    font-weight: bold;
+    font-size: 31px;
+    margin-bottom: 20px;
+
+}
+.banner{
+    padding-left: 0;
+    padding-right: 0;
+    /* margin-top: 138px; */
+    margin-bottom: 50px;
+}
+input.search{
+    width: 435px;
+    position: relative;
+    padding: 7px;
+    outline: none;
+    margin-bottom: 20px;
+   
+
+}
+
+.butn{
+    padding: 10px 32px;
+    border-radius: 26px;
+    border: none;
+    background-color: #8544F6;
+    color: white;
+    font-weight: bolder;
+}
+.b1{
+    font-weight: bold;
+}
+.btns button{
+    padding: 10px 20px;
+    border-radius: 26px;
+    margin-bottom: 10px;
+    color: #8544F6;
+    font-weight: 500;
+    border: 1px solid rgb(230, 221, 221);
+    background-color: white;
+
+}
+
+
+
+.card{
+    width: 24%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 11px;
+    margin-bottom: 40px;
+    padding: 29px 20px;
+    border-radius: 10px;
+    border: 2px solid #6851FF;
+    cursor: pointer;
+}
+
+.card h5{
+    color:#6851FF ;
+    font-weight:bold;
+}
+.card i{
+    color:#6851FF ;
+    margin-bottom: 10px;
+
+}
+.card2{
+    padding: 80px 20px;
+}
+.card3{
+    width: 32%;
+    position: relative;
+    height: 300px;
+}
+.headline{
+    position: absolute;
+    left: 10px;
+    top: 17px;
+}
+.cardp{
+    margin-top: 10px;
+}
+.card-logo{
+    position: absolute;
+    right: 10px;
+    top: 0;
+    
+}
+.hrs{
+    position: absolute;
+    left:20px;
+    bottom: -31px;
+   
+}
+.desh{
+    position: absolute;
+    right: 10px;
+    bottom:-31px;
+
+}
+
+.footer{ 
+    background-image: linear-gradient(#533CDE,#9046FC);
+    margin-top: 100px;
+    height: auto;
+}
+.ftrow{
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    max-width: 1100px;
+    margin: auto;
+   
+}
+.right{
+    color: white;
+    font-weight: bold;
+}
+.icons img{
+    margin-right: 30px;
+}
+hr{
+    color: white;
+}
+.rights{
+    color: white;
+    font-weight: bold;
+}
+
+
+/* .icons img{
+    margin-right: 30px;
+    
+} */
+.card1-sec{
+    margin-top: 50px
+}
+
+@media only screen and (min-width:992px) and (max-width:1200px){
+    .card1-sec{
+        max-width: 100%;
+    }
+    .card2-sec{
+        max-width: 100%;
+    }
+    .card3-sec{
+        max-width: 100%;
+    }
+    .card{
+        width: 48%;
+        margin: 2% auto;
+    }
+    .card2{
+        width: 48%;
+        margin: 2% auto;
+    }
+    .card3{
+        width: 48%;
+        margin: 2% auto;
+    }
+    
+    .seclast{
+        display: none;
+    }
+    .gethired{
+        max-width: 90%;
+    }
+    .jobscard{
+
+        max-width: 90%;
+    }
+    .right{
+        position: relative;
+        right: 75px;
+    }
+    .ftrow{
+        height: 23vh;
+    }
+   
+
+
+
+}
+
+@media only screen and (min-width:769px) and (max-width:992px){
+    .card1-sec{
+        max-width: 100%;
+    }
+    .card2-sec{
+        max-width: 100%;
+    }
+    .card3-sec{
+        max-width: 100%;
+    }
+    .card{
+        width: 48%;
+        margin: 2% auto;
+    }
+    .card2{
+        width: 48%;
+        margin: 2% auto;
+    }
+    .card3{
+        width: 48%;
+        margin: 2% auto;
+    }
+    
+   .ftrow{
+    height: 23vh;
+   }
+    
+   
+    
+    
+}
+@media only screen and (min-width:577px) and (max-width:768px){
+    
+    .sec,.jobscard{
+        max-width: 90%;
+    }
+    .card1-sec{
+        max-width: 100%;
+    }
+    .card2-sec{
+        max-width: 100%;
+    }
+    .card3-sec{
+        max-width: 100%;
+    }
+    .card{
+        width: 48%;
+        margin: 2% auto;
+    }
+    .card2{
+        width: 48%;
+        margin: 2% auto;
+    }
+    .card3{
+        width: 48%;
+        margin: 2% auto;
+    }
+   
+      .seclast{
+        display: none;
+    }
+    .apply-sec{
+        max-width: 90%;
+    }
+    .topnav{
+        max-width: 90%;
+    }
+    .ftrow{
+        height: 23vh;
+    }
+  
+    
+   
+}
+
+
+@media only screen and (min-width:280px) and (max-width:576px){
+  
+    
+    .card1-sec{
+        max-width: 100%;
+        padding-right: 0;
+        padding-left: 0;
+
+    }
+    .card2-sec{
+        max-width: 100%;
+    }
+    .card3-sec{
+        max-width: 100%;
+    }
+    .card{
+      width: 90%;
+      margin: 2% auto;
+      
+      /* flex-wrap: wrap; */
+    }
+    .card2{
+        width: 90%;
+        margin: 2% auto;
+    }
+    .card3{
+        width: 90%;
+         margin: 2% auto;
+    }
+    .seclast{
+        width: 100%;
+    }
+    
+    
+    input.search{
+        margin-top: 10px;
+        width: 254px;
+
+    }
+    .seclast{
+        display: none;
+    }
+    
+    .navbar-light .navbar-brand {
+        color: rgba(0, 0, 0, .9);
+      
+    }
+    .desh {
+        position: absolute;
+        right: 10px;
+        bottom: 11px;
+    }
+    .card3{
+        height: 334px;
+    } 
+    .footer{
+        padding: 18px;
+    }
+     
+      
+   
+}
